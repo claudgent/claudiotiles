@@ -258,7 +258,7 @@ footer a {
 }
 
 footer .footer-above {
-    padding: 125px 0;
+    padding: 65px 0;
 }
 
 footer .footer-col,
@@ -335,4 +335,15 @@ footer .footer-below {
 
 .scroll-top .btn:focus {
     outline: none;
+}
+
+#carouselExampleSlidesOnly {
+    border: white 2px solid;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.d-block {
+    max-height: 600px;
+    width: 100%;
 }
