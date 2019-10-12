@@ -177,7 +177,6 @@ header .intro-text .skills {
 }
 
 .logo {
-    background: url(../img/rect28.png);
     background-size: contain;
     font-family: 'Radley', serif;
     font-size: 3em;
@@ -346,4 +345,8 @@ footer .footer-below {
 .d-block {
     max-height: 600px;
     width: 100%;
+}
+
+.raddtech-logo {
+    width: 1.5em;
 }
